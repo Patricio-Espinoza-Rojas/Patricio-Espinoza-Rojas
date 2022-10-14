@@ -12,7 +12,7 @@
 ---
 ### 💻:keyboard: Lenguajes 
 
-### Languajes<sup>*</sup>
+
 
   **Python**:
   ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Quananhle/Python-AWS-TradingAI)
@@ -33,8 +33,10 @@
 **Version Control:**
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Quananhle)
 
+## 📊 Github Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=Patricio-Espinoza-Rojas&show_icons=true&theme=highcontrast)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Patricio-Espinoza-Rojas&show_icons=true&theme=highcontrast&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patricio-Espinoza-Rojas&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <hr>
 
@@ -67,9 +69,9 @@
 </p>
 
 
-<h2 align="center">
-  Me puedes contactar en mis redes.
-</h2>
+
+ ## 📫 Me puedes contactar en mis redes.
+
 <!--<h3 align="center">
   I speak English too, Get in touch.
 </h3> -->
