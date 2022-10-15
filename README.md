@@ -9,10 +9,9 @@
 - 💪🏼 Aparte de mis estudios formales siempre estoy estudiando de manera autodidacta y aprendiendo cosas nuevas.
 - ⚡ Me gusta afrontar nuevos desafios, soy Dedicado, me gusta aprender cosas nuevas, me gustá trabajar en equipo, soy Amable, Paciente, Responsable, Buena   comunicación interpersonales
 
----
-### 💻:keyboard: Lenguajes y tecnologías 
 
-
+## 💻:keyboard: Lenguajes y tecnologías 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130">
 
   **Python**:
   ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Quananhle/Python-AWS-TradingAI)
@@ -37,8 +36,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Patricio-Espinoza-Rojas&show_icons=true&theme=highcontrast&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patricio-Espinoza-Rojas&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<hr>
 
 ## 📌 Repositorios
 
