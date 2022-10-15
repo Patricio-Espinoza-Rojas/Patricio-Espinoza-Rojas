@@ -10,7 +10,7 @@
 - ⚡ Me gusta afrontar nuevos desafios, soy Dedicado, me gusta aprender cosas nuevas, me gustá trabajar en equipo, soy Amable, Paciente, Responsable, Buena   comunicación interpersonales
 
 ---
-### 💻:keyboard: Lenguajes 
+### 💻:keyboard: Lenguajes y tecnologías 
 
 
 
