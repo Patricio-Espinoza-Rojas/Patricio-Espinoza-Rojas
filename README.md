@@ -4,7 +4,7 @@
 
 ## 🎓 Soy estudiante de Programación 
 
-- 👨‍💻 Actualmente Soy estudiante de Programación en Inacap, Realicé un bootcamp de Desarrollador Full-Stack en 4Geeks Academy Chile.
+- 👨‍💻 Actualmente estudio Programación en Inacap, Realicé un bootcamp de Desarrollador Full-Stack en 4Geeks Academy Chile.
 - 📚 tengo conocimiento en HTML5, CSS, Javascript, React, Python actualmente sigo aprendiendo y reforzando conocimientos en Javascript, React, Python.
 - 💪🏼 Aparte de mis estudios formales siempre estoy estudiando de manera autodidacta y aprendiendo cosas nuevas.
 - ⚡ Me gusta afrontar nuevos desafios, Dedicado, me gusta aprender cosas nuevas, me gustá trabajar en equipo, Amable, Paciente, Responsable, Buena comunicación   interpersonales
@@ -60,10 +60,10 @@
  <a href="mailto:p.alfonsoespinoza@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
    <a href="https://github.com/Patricio-Espinoza-Rojas"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/patricio-espinoza-rojas/"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;</p>
+
 <img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="100%" />
 
 ## 👀 Puedes ver mi CV.
-
 [Patricio_Alfonso Espinoza Rojas_Resume.pdf](https://github.com/Patricio-Espinoza-Rojas/Patricio-Espinoza-Rojas/files/9790989/Patricio_Alfonso.Espinoza.Rojas_Resume.pdf)
 
 ⭐️ From [Patricio-Espinoza-Rojas](https://github.com/Patricio-Espinoza-Rojas)
