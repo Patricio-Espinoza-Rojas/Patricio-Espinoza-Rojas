@@ -61,6 +61,11 @@
    <a href="https://github.com/Patricio-Espinoza-Rojas"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/patricio-espinoza-rojas/"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;</p>
 <img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="100%" />
+
+## 👀 Puedes ver mi CV.
+
+[Patricio_Alfonso Espinoza Rojas_Resume.pdf](https://github.com/Patricio-Espinoza-Rojas/Patricio-Espinoza-Rojas/files/9790989/Patricio_Alfonso.Espinoza.Rojas_Resume.pdf)
+
 ⭐️ From [Patricio-Espinoza-Rojas](https://github.com/Patricio-Espinoza-Rojas)
 
 <!--
