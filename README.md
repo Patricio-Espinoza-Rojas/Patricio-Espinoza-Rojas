@@ -48,8 +48,10 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Patricio-Espinoza-Rojas&repo=traffic-light%&theme=highcontrast)](https://github.com/Patricio-Espinoza-Rojas/Traffic-Light)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Patricio-Espinoza-Rojas&repo=Using-JS-for-validating-an-HTML-form%&theme=highcontrast)](https://github.com/Patricio-Espinoza-Rojas/Using-JS-for-validating-an-HTML-form)
 
- ## 📫 Me puedes contactar en mis redes.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Patricio-Espinoza-Rojas&repo=ADT%&theme=highcontrast)](https://github.com/Sussanara/ADT/tree/pato)
 
+ ## 📫 Me puedes contactar en mis redes.
+ 
 <!--<h3 align="center">
   I speak English too, Get in touch.
 </h3> -->
@@ -57,14 +59,16 @@
 <p align="center">
  <a href="mailto:p.alfonsoespinoza@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
    <a href="https://github.com/Patricio-Espinoza-Rojas"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
-  <a href="https://www.linkedin.com/in/patricio-espinoza-rojas/"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-</p>
+  <a href="https://www.linkedin.com/in/patricio-espinoza-rojas/"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;</p>
 <img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="100%" />
-
 ⭐️ From [Patricio-Espinoza-Rojas](https://github.com/Patricio-Espinoza-Rojas)
 
 <!--
 **Patricio-Espinoza-Rojas/Patricio-Espinoza-Rojas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+
 
 Here are some ideas to get you started:
 
