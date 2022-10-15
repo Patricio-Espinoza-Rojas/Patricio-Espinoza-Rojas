@@ -35,15 +35,17 @@
 
 ## 📊 Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Patricio-Espinoza-Rojas&show_icons=true&theme=highcontrast&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patricio-Espinoza-Rojas&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Patricio-Espinoza-Rojas&show_icons=true&theme=highcontrast&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patricio-Espinoza-Rojas&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <hr>
 
-<h2 align="center">Repositorios</h2>
+## 📌 Repositorios
 
-<p width="100%" align="center">
- <a align="left" href="https://github.com/Patricio-Espinoza-Rojas/tic-tac-toe" title="tic-tac-toe"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=gotham"></a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Patricio-Espinoza-Rojas&repo=ADT%&theme=maroongold)](https://github.com/Patricio-Espinoza-Rojas/tic-tac-toe)   
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hayder10&repo=battleship-react%&theme=maroongold)](https://github.com/Hayder10/battleship-react)
+
  <a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=gotham"></a>
 </p>
 <br><br>
