@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## 🎓 Soy estudiante de Programación 
+## 🎓 Soy estudiante de ingieneria en informática 
 
 - 👨‍💻 Actualmente estudio ingieneria en informática de manera vespertina en Inacap sede santiago sur, Realicé un bootcamp de Desarrollador Full-Stack en 4Geeks Academy Chile.
 - 📚 tengo conocimiento en HTML5, CSS, Javascript, React, Python actualmente sigo aprendiendo y reforzando conocimientos en Javascript, React, Python.
