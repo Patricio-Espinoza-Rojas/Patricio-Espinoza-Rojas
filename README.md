@@ -4,7 +4,7 @@
 
 ## 🎓 Soy estudiante de Programación 
 
-- 👨‍💻 Actualmente estudio Programación en Inacap, Realicé un bootcamp de Desarrollador Full-Stack en 4Geeks Academy Chile.
+- 👨‍💻 Actualmente estudio ingieneria en informática de manera vespertina en Inacap sede santiago sur, Realicé un bootcamp de Desarrollador Full-Stack en 4Geeks Academy Chile.
 - 📚 tengo conocimiento en HTML5, CSS, Javascript, React, Python actualmente sigo aprendiendo y reforzando conocimientos en Javascript, React, Python.
 - 💪🏼 Aparte de mis estudios formales siempre estoy estudiando de manera autodidacta y aprendiendo cosas nuevas.
 - ⚡ Me gusta afrontar nuevos desafios, soy Dedicado, me gusta aprender cosas nuevas, me gustá trabajar en equipo, soy Amable, Paciente, Responsable, Buena   comunicación interpersonales
