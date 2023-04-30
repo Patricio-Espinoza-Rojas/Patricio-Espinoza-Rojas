@@ -2,6 +2,7 @@
 
   <img align="right" width="30%" alt="GIF src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/>
   
+  
 
 ## 🎓 Soy estudiante de ingienería en informática 
 
