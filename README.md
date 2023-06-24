@@ -73,16 +73,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Patricio-Espinoza-Rojas&repo=ADT%&theme=highcontrast)](https://github.com/Sussanara/ADT/tree/pato)
 
- ## 📫 Me puedes contactar en mis redes.
- 
-<!--<h3 align="center">
-  I speak English too, Get in touch.
-</h3> -->
-<br/>
-<p align="center">
- <a href="mailto:p.alfonsoespinoza@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/></a> &nbsp; &nbsp;
-  <a href="https://www.linkedin.com/in/patricio-espinoza-rojas/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a> &nbsp; &nbsp;</p>
-<img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="100%" />
 
 ## 👀 Puedes ver mi CV.
 [Patricio_Alfonso Espinoza Rojas_Resume.pdf](https://github.com/Patricio-Espinoza-Rojas/Patricio-Espinoza-Rojas/files/9790989/Patricio_Alfonso.Espinoza.Rojas_Resume.pdf)
