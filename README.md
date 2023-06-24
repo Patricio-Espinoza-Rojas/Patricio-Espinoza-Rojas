@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
@@ -15,7 +15,6 @@
 
 # Hola, mi nombre es Patricio Espinoza Rojas <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-  <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
   
 ## 🎓 Soy estudiante de ingeniería en informática 
 
@@ -78,6 +77,10 @@
 [Patricio_Alfonso Espinoza Rojas_Resume.pdf](https://github.com/Patricio-Espinoza-Rojas/Patricio-Espinoza-Rojas/files/9790989/Patricio_Alfonso.Espinoza.Rojas_Resume.pdf)
 
 ⭐️ From [Patricio-Espinoza-Rojas](https://github.com/Patricio-Espinoza-Rojas)
+
+<!--<h3 align="center">
+  I speak English too, Get in touch.
+</h3> -->
 
 <!--
 **Patricio-Espinoza-Rojas/Patricio-Espinoza-Rojas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
