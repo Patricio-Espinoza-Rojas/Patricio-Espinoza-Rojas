@@ -70,7 +70,7 @@
   <a href="https://www.linkedin.com/in/patricio-espinoza-rojas/"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;</p>
 
 <img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="100%" />
-<img src="https://raw.githubusercontent.com/Patricio-Espinoza-Rojas/output/snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/Patricio-Espinoza-Rojas/Patricio-Espinoza-Rojas/output/snake.svg" alt="Snake animation"/>
 
 ## 👀 Puedes ver mi CV.
 [Patricio_Alfonso Espinoza Rojas_Resume.pdf](https://github.com/Patricio-Espinoza-Rojas/Patricio-Espinoza-Rojas/files/9790989/Patricio_Alfonso.Espinoza.Rojas_Resume.pdf)
