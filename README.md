@@ -9,7 +9,7 @@
 - 💪🏼 Aparte de mis estudios formales siempre estoy estudiando de manera autodidacta y aprendiendo cosas nuevas.
 - ⚡ Me gusta afrontar nuevos desafíos, soy Dedicado, me gusta aprender cosas nuevas, me gusta trabajar en equipo, soy Amable, Paciente, Responsable, Buena comunicación interpersonales
 
-
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130">
 ## 💻:keyboard: Lenguajes y tecnologías 
 <table><tr><td valign="top" width="33%">
 
@@ -40,20 +40,14 @@
 
 
 
-### DevOps  
+### Version Control:  
 <div align="center">  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
 
 </td></tr></table>  
 
 <!--### Tools-->
-
-**Version Control:**
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Quananhle)
 
 ## 📊 Github Stats
