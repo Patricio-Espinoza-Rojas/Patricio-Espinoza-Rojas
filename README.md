@@ -11,9 +11,6 @@
 
 
 ## 💻:keyboard: Lenguajes y tecnologías 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130">
-
-## 💻:keyboard: Lenguajes y tecnologías 
 <table><tr><td valign="top" width="33%">
 
 
