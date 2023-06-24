@@ -9,7 +9,7 @@
 - 💪🏼 Aparte de mis estudios formales siempre estoy estudiando de manera autodidacta y aprendiendo cosas nuevas.
 - ⚡ Me gusta afrontar nuevos desafíos, soy Dedicado, me gusta aprender cosas nuevas, me gusta trabajar en equipo, soy Amable, Paciente, Responsable, Buena comunicación interpersonales
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130">
+
 ## 💻:keyboard: Lenguajes y tecnologías 
 <table><tr><td valign="top" width="33%">
 
@@ -48,7 +48,6 @@
 </td></tr></table>  
 
 <!--### Tools-->
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Quananhle)
 
 ## 📊 Github Stats
 
