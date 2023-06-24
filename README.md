@@ -14,9 +14,11 @@
 
 <h1 align="center"> Hola, mi nombre es Patricio Espinoza Rojas <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
   
 ## 🎓 Soy estudiante de ingeniería en informática 
+
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 👨‍💻 Actualmente estudio ingeniería en informática de manera vespertina en Inacap sede Santiago Sur, Realicé un bootcamp de Desarrollador Full-Stack en 4Geeks Academy Chile.
 - 📚 tengo conocimiento en HTML5, CSS, Javascript, React, Python actualmente sigo aprendiendo y reforzando conocimientos en Javascript, React, Python.
