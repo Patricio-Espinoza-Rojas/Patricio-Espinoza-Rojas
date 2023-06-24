@@ -14,7 +14,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130">
 
   **Python**:
-  ![Python]<a href="https://www.flaticon.es/iconos-gratis/piton" title="pitón iconos">Pitón iconos creados por Freepik - Flaticon</a>
+  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
   
   **JavaScript**: 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Quananhle/Front-End-Dev)
