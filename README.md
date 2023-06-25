@@ -12,7 +12,11 @@
 
 ###
 
-<h1 align="center"> Hola, mi nombre es Patricio Espinoza Rojas <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hola,+que+tal!+👋;soy+Patricio+Espinoza;encantado+en+saludarte&center=true&size=33">
+  </a>
+</h1>
 
 
   
