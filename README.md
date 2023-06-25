@@ -60,12 +60,14 @@
 <!--### Tools-->
 
 ## 📊 Github Stats
-
+<div align="center"> 
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Patricio-Espinoza-Rojas&show_icons=true&theme=highcontrast&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patricio-Espinoza-Rojas&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 
 ## 📌 Repositorios
-
+<div align="center">
+    
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Patricio-Espinoza-Rojas&repo=tic-tac-toe%&theme=highcontrast)](https://github.com/Patricio-Espinoza-Rojas/tic-tac-toe)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Patricio-Espinoza-Rojas&repo=boostrap-form%&theme=highcontrast)](https://github.com/Patricio-Espinoza-Rojas/boostrap-form)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Patricio-Espinoza-Rojas&repo=random-card-generator%&theme=highcontrast)](https://github.com/Patricio-Espinoza-Rojas/Random-card-generator)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Patricio-Espinoza-Rojas&repo=simple-counter%&theme=highcontrast)](https://github.com/Patricio-Espinoza-Rojas/Simple-Counter)
@@ -74,6 +76,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Patricio-Espinoza-Rojas&repo=ADT%&theme=highcontrast)](https://github.com/Sussanara/ADT/tree/pato)
 
+
+</div>
 
 ## 👀 Puedes ver mi CV.
 [Patricio_Alfonso Espinoza Rojas_Resume.pdf](https://github.com/Patricio-Espinoza-Rojas/Patricio-Espinoza-Rojas/files/9790989/Patricio_Alfonso.Espinoza.Rojas_Resume.pdf)
