@@ -41,6 +41,59 @@
 ![image](https://github.com/Patricio-Espinoza-Rojas/Patricio-Espinoza-Rojas/assets/101902117/601bfca2-edd1-497d-a3b1-1defa0103dc0)
 
 
+## 😄Te invito a conocerme un poco mas....
+<img align="right" alt="GIF" height="140px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
+<pre>  👨‍💻Actualmente <strong>estudio ingeniería en informática</strong> de manera vespertina en Inacap sede Santiago Sur.
+        
+      🎓Realicé un bootcamp de <strong>Desarrollador Full-Stack</strong> en 4Geeks Academy Chile.
+             
+           📚tengo conocimiento en <strong>HTML5, CSS, Javascript, React, Python.</strong> 
+                  
+              💪🏼<strong>Actualmente sigo aprendiendo y reforzando conocimientos en Javascript, React, Python.</strong>
+  
+  ⭐️Aparte de mis estudios formales <strong>siempre estoy estudiando de manera autodidacta y aprendiendo cosas nuevas</strong>.
+      
+    👯<strong>Me gusta afrontar nuevos desafíos, soy Dedicado, me gusta aprender cosas nuevas,
+        me gusta trabajar en equipo, soy Amable, Paciente, Responsable, Buena comunicación interpersonales.</strong>
+</pre>
+
+
+  
+## 🎓 Soy estudiante de ingeniería en informática 
+
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
+- 👨‍💻 Actualmente estudio ingeniería en informática de manera vespertina en Inacap sede Santiago Sur, Realicé un bootcamp de Desarrollador Full-Stack en 4Geeks Academy Chile.
+- 📚 tengo conocimiento en HTML5, CSS, Javascript, React, Python actualmente sigo aprendiendo y reforzando conocimientos en Javascript, React, Python.
+- 💪🏼 Aparte de mis estudios formales siempre estoy estudiando de manera autodidacta y aprendiendo cosas nuevas.
+- ⚡ Me gusta afrontar nuevos desafíos, soy Dedicado, me gusta aprender cosas nuevas, me gusta trabajar en equipo, soy Amable, Paciente, Responsable, Buena comunicación interpersonales
+
+
+## 😄Te invito a conocerme un poco mas....
+
+```python  
+1 #!/usr/bin/python
+2 # -*- coding: utf-8 -*-  
+3  Actualidad = "Estudio ingeniería en informática de manera vespertina en Inacap sede Santiago Sur"
+4
+5  Bootcamp = "realicé un bootcamp de Desarrollador Full-Stack en 4Geeks Academy Chile"
+6
+7  Conocimientos = ["HTML5", "CSS", "Javascript", "React", "Python"]
+8
+9  Sigo_aprendiendo = "actualmente sigo aprendiendo y reforzando conocimientos en Javascript, React, Python"
+10
+11 Autodidacta = "siempre estoy estudiando de manera autodidacta y aprendiendo cosas nuevas"
+12
+13 Habilidades_blandas = ["Afrontar nuevos desafíos", "Dedicado", "Aprender cosas nuevas", 
+14                        "Trabajar en equipo", "Amable", "Paciente", "Responsable", 
+15                        "Buena comunicación interpersonal"]
+16
+17 print(f'Actualmente {Actualidad} , {Bootcamp}, tengo conocimientos en {Conocimientos}, {Sigo_aprendiendo},' 
+18       f'a parte de mis estudios formales {Autodidacta}, mis aptitudes y habilidades blandas son {Habilidades_blandas}')
+19 
+```
+
 
 
 ## 💻:keyboard: Lenguajes y tecnologías
