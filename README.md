@@ -37,6 +37,13 @@
 17 print(f'Actualmente {Actualidad} , {Bootcamp}, tengo conocimientos en {Conocimientos}, {Sigo_aprendiendo},' 
 18       f'a parte de mis estudios formales {Autodidacta}, mis aptitudes y habilidades blandas son {Habilidades_blandas}')
 19 
+Salida codigo:
+Actualmente estudio ingenieria en informatica de manera vespertina en inacap sede santiago sur,
+realice un bootcamp de desarrollador Full-Stack en 4Geeks Academy Chile, tengo conocimientos en
+['HTML5', 'Javascript', 'React', 'Python'], actualmente sigo aprendiendo y reforzando conocimientos en
+Javascript, React, Python. A Parte de mis estudios formales siempre estoy estudiando de manera autodidacta
+y aprendiendo cosas nuevas, mis aptitudes y habilidades blandas son ['Afrontar nuevos desafios', 'Dedicado',
+'Aprender cosas nuevas', 'Trabajar en equipo', 'Amable', 'Paciente', 'Responsable', 'Buena comunicacion interpersonal']. 
 ```
 ![image](https://github.com/Patricio-Espinoza-Rojas/Patricio-Espinoza-Rojas/assets/101902117/601bfca2-edd1-497d-a3b1-1defa0103dc0)
 
