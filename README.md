@@ -115,7 +115,8 @@ y aprendiendo cosas nuevas, mis aptitudes y habilidades blandas son ['Afrontar n
 </details>
 
 ## 👀 Puedes ver mi CV.
-[Patricio_Alfonso Espinoza Rojas_Resume.pdf](https://github.com/Patricio-Espinoza-Rojas/Patricio-Espinoza-Rojas/files/9790989/Patricio_Alfonso.Espinoza.Rojas_Resume.pdf)
+[Patricio_Alfonso Espinoza Rojas_Resume.pdf](https://github.com/Patricio-Espinoza-Rojas/Patricio-Espinoza-Rojas/files/12707283/Patricio_Alfonso.Espinoza.Rojas_Resume.pdf)
+
 
 <img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="100%" />
 ⭐️ From [Patricio-Espinoza-Rojas](https://github.com/Patricio-Espinoza-Rojas)
