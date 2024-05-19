@@ -20,7 +20,7 @@
 ```python  
 1 #!/usr/bin/python
 2 # -*- coding: utf-8 -*-  
-3  Actualidad = "Estudio ingeniería en informática de manera vespertina en Inacap sede Santiago Sur"
+3  Actualidad = "Trabajo como analista QA"
 4
 5  Bootcamp = "realicé un bootcamp de Desarrollador Full-Stack en 4Geeks Academy Chile"
 6
@@ -28,7 +28,7 @@
 8
 9  Sigo_aprendiendo = "actualmente sigo aprendiendo y reforzando conocimientos en Javascript, React, Python"
 10
-11 Autodidacta = "siempre estoy estudiando de manera autodidacta y aprendiendo cosas nuevas"
+11 Autodidacta = "siempre estoy estudiando de manera autodidacta y aprendiendo cosas nuevas, en estos momentos estudio Javascript, React, SQL, comandos Linux, entre otras cosas útiles que puedan ser de ayuda para mejorar como programador y conseguir un mejor stack"
 12
 13 Habilidades_blandas = ["Afrontar nuevos desafíos", "Dedicado", "Aprender cosas nuevas", 
 14                        "Trabajar en equipo", "Amable", "Paciente", "Responsable", 
@@ -38,11 +38,9 @@
 18       f'a parte de mis estudios formales {Autodidacta}, mis aptitudes y habilidades blandas son {Habilidades_blandas}')
 19 
 Salida codigo:
-Actualmente estudio ingenieria en informatica de manera vespertina en inacap sede santiago sur,
-realice un bootcamp de desarrollador Full-Stack en 4Geeks Academy Chile, tengo conocimientos en
+Actualmente Trabajo como analista QA, realice un bootcamp de desarrollador Full-Stack en 4Geeks Academy Chile, tengo conocimientos en
 ['HTML5', 'Javascript', 'React', 'Python'], actualmente sigo aprendiendo y reforzando conocimientos en
-Javascript, React, Python. A Parte de mis estudios formales siempre estoy estudiando de manera autodidacta
-y aprendiendo cosas nuevas, mis aptitudes y habilidades blandas son ['Afrontar nuevos desafios', 'Dedicado',
+Javascript, React, Python. A Parte de mis estudios formales siempre estoy estudiando de manera autodidacta y aprendiendo cosas nuevas, en estos momentos estudio Javascript, React, SQL, comandos Linux, entre otras cosas útiles que puedan ser de ayuda para mejorar como programador y conseguir un mejor stack, mis aptitudes y habilidades blandas son ['Afrontar nuevos desafios', 'Dedicado',
 'Aprender cosas nuevas', 'Trabajar en equipo', 'Amable', 'Paciente', 'Responsable', 'Buena comunicacion interpersonal']. 
 ```
 ![image](https://github.com/Patricio-Espinoza-Rojas/Patricio-Espinoza-Rojas/assets/101902117/601bfca2-edd1-497d-a3b1-1defa0103dc0)
