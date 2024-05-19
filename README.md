@@ -43,7 +43,8 @@ Actualmente Trabajo como analista QA, realice un bootcamp de desarrollador Full-
 Javascript, React, Python. A Parte de mis estudios formales siempre estoy estudiando de manera autodidacta y aprendiendo cosas nuevas, en estos momentos estudio Javascript, React, SQL, comandos Linux, entre otras cosas útiles que puedan ser de ayuda para mejorar como programador y conseguir un mejor stack, mis aptitudes y habilidades blandas son ['Afrontar nuevos desafios', 'Dedicado',
 'Aprender cosas nuevas', 'Trabajar en equipo', 'Amable', 'Paciente', 'Responsable', 'Buena comunicacion interpersonal']. 
 ```
-![image](https://github.com/Patricio-Espinoza-Rojas/Patricio-Espinoza-Rojas/assets/101902117/601bfca2-edd1-497d-a3b1-1defa0103dc0)
+![image](https://github.com/Patricio-Espinoza-Rojas/Patricio-Espinoza-Rojas/assets/101902117/c90815f8-5f6f-43ea-bda0-16e8aa2a095e)
+
 
 
 
